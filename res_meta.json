@@ -1,0 +1,52 @@
+{
+ "n_total": 418,
+ "n_trial": 312,
+ "n_nontrial": 106,
+ "deaths_trial": 125,
+ "deaths_nontrial": 36,
+ "transplant_trial": 19,
+ "transplant_nontrial": 6,
+ "median_fu_trial_days": 1839.5,
+ "median_fu_nontrial_days": 1397.0,
+ "conformal_n": 244,
+ "conformal_pos": 85,
+ "shap_jaccard_top5": 0.6285714285714286,
+ "shap_mayo_recovery_top5": 0.6799999999999999,
+ "shap_top5_per_fold": [
+  [
+   "age",
+   "albumin",
+   "ast",
+   "bili",
+   "copper"
+  ],
+  [
+   "age",
+   "albumin",
+   "ast",
+   "bili",
+   "protime"
+  ],
+  [
+   "age",
+   "ast",
+   "bili",
+   "copper",
+   "stage"
+  ],
+  [
+   "age",
+   "albumin",
+   "bili",
+   "copper",
+   "protime"
+  ],
+  [
+   "age",
+   "albumin",
+   "bili",
+   "copper",
+   "protime"
+  ]
+ ]
+}

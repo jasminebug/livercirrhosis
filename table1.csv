@@ -1,0 +1,12 @@
+,Trial cohort (development),Non-trial cohort (shifted test)
+N,312,106
+"Age, median (IQR)",49.8 (42.2–56.7),53.0 (46.0–61.0)
+"Female, n (%)",276 (88.5),98 (92.5)
+"Bilirubin mg/dL, median (IQR)",1.4 (0.8–3.4),1.4 (0.7–3.1)
+"Albumin g/dL, median (IQR)",3.55 (3.31–3.80),3.47 (3.12–3.72)
+"Prothrombin time s, median",10.6,10.6
+"Edema present (0.5 or 1), n (%)",49 (15.7),15 (14.2)
+"Histologic stage 4 (cirrhosis), n (%)",109 (34.9),35 (33.0)
+"Deaths, n (%)",125 (40.1),36 (34.0)
+"Liver transplants, n",19,6
+"Follow-up days, median",1840,1397
